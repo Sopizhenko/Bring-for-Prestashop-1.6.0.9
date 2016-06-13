@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>fraktguide</name>
+	<displayName><![CDATA[Bring Fraktguide]]></displayName>
+	<version><![CDATA[0.10.7]]></version>
+	<description><![CDATA[Integrasjon av Bring Fraktguide]]></description>
+	<author><![CDATA[Nils-Helge Garli Hegvik]]></author>
+	<tab><![CDATA[shipping_logistics]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
